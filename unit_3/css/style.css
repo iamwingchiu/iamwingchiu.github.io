@@ -1,0 +1,21 @@
+body{
+	text-align: left;
+	font-family: Arial, sans-serif;
+	color: #394B4F;
+	font-size: 15px;
+}
+h1{
+	color: #ea679b;
+	font-size: 100px;
+}
+p{
+	font-size: 20PX;
+}
+ul{
+    text-align: left;
+    list-style-type: none;
+}
+
+#slogan {
+	font-style: italic;
+}
