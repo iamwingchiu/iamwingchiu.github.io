@@ -3,6 +3,8 @@ body{
 	font-family: Arial, sans-serif;
 	color: #394B4F;
 	font-size: 15px;
+	background: url(file:///Users/wingszechiu/Desktop/iamwingchiu.github.io/unit_3/images/rosetoner.jpg);
+	background-size: cover;
 }
 h1{
 	color: #ea679b;
