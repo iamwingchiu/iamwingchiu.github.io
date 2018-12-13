@@ -3,7 +3,11 @@ body{
 	font-family: Arial, sans-serif;
 	color: #394B4F;
 	font-size: 15px;
+    background-image: url(../images/rosetoner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 h1{
 	color: #ea679b;
 	font-size: 100px;
@@ -15,6 +19,8 @@ ul{
     text-align: left;
     list-style-type: none;
 }
+
+
 
 #slogan {
 	font-style: italic;
