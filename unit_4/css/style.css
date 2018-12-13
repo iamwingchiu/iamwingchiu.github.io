@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Mada|Source+Serif+Pro');
+
+body{
+	text-align: left;
+	color: #394B4F;
+	font-family: 'Source Serif Pro', serif;
+
+}
+
+h1{
+	color: #ea679b;
+	font-size: 60px;
+	font-family: 'Mada', sans-serif;
+}
+
+h2{
+	font-size: 25px;
+	font-family: 'Mada', sans-serif;
+}
+p{
+	font-size: 20PX;
+	line-height: 1.5em;
+}
+ul{
+    font-size: 20px
+    line-height: 1.5em;
+    text-align: left;
+    list-style-type: none;
+}
+
+
+#slogan {
+	font-style: italic;
+	font-size: 30px
+}
